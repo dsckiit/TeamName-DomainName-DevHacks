@@ -1,5 +1,3 @@
-## Code Description
+## Documentation
 
-An overview of 
-* Code components and their functionality 
-* Data sources (if any)
+Upload source code if any. Edit this file to create a documentation of uploaded code.
